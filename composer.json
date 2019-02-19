@@ -1,10 +1,17 @@
 {
-    "name": "sippaprut/propel",
-    "authors": [
-        {
-            "name": "sippaprut",
-            "email": "sippaprut@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "sippaprut/propel",
+  "authors": [
+    {
+      "name": "sippaprut",
+      "email": "sippaprut@gmail.com"
+    }
+  ],
+  "require": {
+    "propel/propel": "~2.0@dev"
+  },
+  "autoload": {
+    "classmap": [
+      "generated-classes/"
+    ]
+  }
 }
