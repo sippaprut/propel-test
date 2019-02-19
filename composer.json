@@ -1,0 +1,10 @@
+{
+    "name": "sippaprut/propel",
+    "authors": [
+        {
+            "name": "sippaprut",
+            "email": "sippaprut@gmail.com"
+        }
+    ],
+    "require": {}
+}
